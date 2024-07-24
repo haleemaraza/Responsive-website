@@ -1,14 +1,14 @@
 import React from 'react'
-import LucyTarr from "/public/pic/Image (9).png"
-import Google from "/public/pic/Google (1).png"
-import GrantStyles from "/public/pic/Image (7).png"
-import Appstore from "/public/pic/App Store.png"
-import RalphEdwards from "/public/pic/Image (10).png"
-import x from "/public/pic/x.png"
-import AnnetteBlack from "/public/pic/Image (11).png"
-import Facebook from "/public/pic/App Logo Inspiraton 42.png"
-import RobertFox from "/public/pic/Image (12).png"
-import BrooklynSimmons from "/public/pic/Image (13).png"
+import LucyTarr from "public/pic/Image (9).png"
+import Google from "public/pic/Google (1).png"
+import GrantStyles from "public/pic/Image (7).png"
+import Appstore from "public/pic/App Store.png"
+import RalphEdwards from "public/pic/Image (10).png"
+import x from "public/pic/x.png"
+import AnnetteBlack from "public/pic/Image (11).png"
+import Facebook from "public/pic/App Logo Inspiraton 42.png"
+import RobertFox from "public/pic/Image (12).png"
+import BrooklynSimmons from "public/pic/Image (13).png"
 
 import Image from 'next/image'
 import { Marquee } from "@devnomic/marquee";

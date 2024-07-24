@@ -1,12 +1,12 @@
 import React from 'react'
-import HeroMobile from "/public/pic/Mobile - Dark.png"
-import HeroWeb from "/public/pic/Desktop - light.png"
+import HeroMobile from "public/pic/Mobile - Dark.png"
+import HeroWeb from "public/pic/Desktop - light.png"
 
-import Google from "/public/pic/Google.png"
-import Slack from "/public/pic/Slack.png"
-import Trustpilot from "/public/pic/Trustpilot.png"
-import Cnn from "/public/pic/CNN logo.png"
-import Clutch from "/public/pic/Clutch.png"
+import Google from "public/pic/Google.png"
+import Slack from "public/pic/Slack.png"
+import Trustpilot from "public/pic/Trustpilot.png"
+import Cnn from "public/pic/CNN logo.png"
+import Clutch from "public/pic/Clutch.png"
 
 import Image from 'next/image'
 import { Slackey } from 'next/font/google'

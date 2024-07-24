@@ -1,7 +1,7 @@
 import React from 'react'
-import F1 from "/public/pic/image.png"
-import F2 from "/public/pic/image (1).png"
-import F3 from "/public/pic/image (2).png"
+import F1 from "public/pic/image.png"
+import F2 from "public/pic/image (1).png"
+import F3 from "public/pic/image (2).png"
 
 import Image from "next/image"
 
