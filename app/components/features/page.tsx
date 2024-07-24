@@ -138,7 +138,7 @@ const page = () => {
           <div className='flex lg:flex-row gap-6 flex-col-reverse'>
             <div className='sm:w-[60%] xs:w-[70%] w-[100%] xl:pt-[56px] xl:pb-[56px] xl:pr-[56px] lg:pt-[12px] lg:pb-[12px] lg:pr-[12px] my-auto mx-auto'>
               <p className='xl:text-[18px] lg:text-[16px] text-[#eb2891] font-medium leading-tight  lg:block'>Growth Monitoring</p>
-              <h3 className='xl:text-[42px] lg:text-[36px] text-[#172026] mt-[16px] lg:leading-tight leading-sung hidden lg:block'>Monitor your site's new subscribers</h3>
+              <h3 className='xl:text-[42px] lg:text-[36px] text-[#172026] mt-[16px] lg:leading-tight leading-sung hidden lg:block'>Monitor your sites new subscribers</h3>
               <p className='xl:text-[18px] lg:text-[16px] text-[#36485c] mt-[16px] lg:leading-tight leading-snug xl:w-[520px]'>Stay on top of things and revamp your work process with our game changing features. Get a bird&#39;s eye view with our customizable dashboard.</p>
               <div className='flex xl:my-[32px] lg:my-[28px] my-[24px]'>
                 <div className='w-[50%]'>
